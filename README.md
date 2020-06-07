@@ -7,6 +7,7 @@ Datasets that I generally use for trainings, workshops
 * [Facebook post data](https://insights.birdsonganalytics.com/static/demo/demobirdsong.facebook.csv) `text-mining`, `social-media`
 * [Medicare hospitals data](https://data.medicare.gov/data/hospital-compare)  
 * [Uber trips data](https://github.com/fivethirtyeight/uber-tlc-foil-response)
+* [Food products data](https://world.openfoodfacts.org/data)
 
 
 ## Code to plot decision tree
